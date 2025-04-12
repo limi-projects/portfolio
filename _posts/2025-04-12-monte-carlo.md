@@ -27,7 +27,7 @@ The value of ${\pi}$ may be approximated using a Monte Carlo simulation.
 
 ### Representation
 
-![montecarlo_plot.png](montecarlo_plot.png)
+![montecarlo_plot.png](https://github.com/limi-projects/python/blob/main/projects/monte_carlo/montecarlo_plot.png)
 
 ### Analysis 
 As shown, the approximation improves as the number of samples is increased, at the cost of an increased duration of the calculation. The green line represents an accurate and precise value of ${\pi}$, the standard to compare each estimate.
