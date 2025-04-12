@@ -1,6 +1,6 @@
 ---
-title: Portfolio
+title: Knowledge Repository
 ---
-# Welcome to my project portfolio.
+# Intersting Stuff.
 
 ## Page Structure
