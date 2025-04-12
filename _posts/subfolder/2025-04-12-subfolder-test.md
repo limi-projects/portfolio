@@ -1,1 +1,3 @@
-Test
+---
+title: "Test Post"
+---
