@@ -7,7 +7,7 @@ title: "Monte Carlo"
 Monte Carlo simulations use (pseudo)random selection to aproach an accurate solution. 
 Since the sampling is randomised, the accuracy of a Monte Carlo simulation increases with the number of samples, at the cost of an increased computational load.
 
-## Example: ${&pi}$
+## Example: ${\pi}$
 The value of ${\pi}$ may be approximated using a Monte Carlo simulation. 
 
 1. Consider a circle with a radius of ${r}$, bounded by a square.
